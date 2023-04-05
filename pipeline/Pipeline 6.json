@@ -15,10 +15,12 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
+					"url": "https://microsoft.com",
 					"connectVia": {
 						"referenceName": "AutoResolveIntegrationRuntime",
 						"type": "IntegrationRuntimeReference"
-					}
+					},
+					"method": "GET"
 				}
 			}
 		],
